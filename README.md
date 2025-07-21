@@ -1,2 +1,2 @@
-# ESP32LR20_firmware v1.7
+# ESP32LR20_firmware v1.8
 Stock firmware for the ESP32LR20 from robot-electronics.co.uk
